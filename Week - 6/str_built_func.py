@@ -1,0 +1,12 @@
+s = input("Enter a string: ")
+print("Length of string:", len(s))
+print("Uppercase:", s.upper())
+print("Lowercase:", s.lower())
+print("Capitalized:", s.capitalize())
+print("Title case:", s.title())
+print("Split string:", s.split())
+print("Is alphabetic:", s.isalpha())
+print("Is numeric:", s.isdigit())
+print("Is alphanumeric:", s.isalpha())
+s1 = "       Mohit Jain     "
+print("After strip :",s1.strip())
