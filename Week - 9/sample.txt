@@ -1,0 +1,5 @@
+Hello World
+Welcome to Python File Handling
+This is line 3
+This is line 4
+This is line 5
