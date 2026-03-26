@@ -1,0 +1,709 @@
+Student_ID,Gender,Study_Hours_per_Week,Attendance_Rate,Past_Exam_Scores,Parental_Education_Level,Internet_Access_at_Home,Extracurricular_Activities,Final_Exam_Score,Pass_Fail
+S147,Male,31,68.26784098,86,High School,Yes,Yes,63,Pass
+S136,Male,16,78.22292713,73,PhD,No,No,50,Fail
+S209,Female,21,87.52509624,74,PhD,Yes,No,55,Fail
+S458,Female,27,92.07648302,99,Bachelors,No,No,65,Pass
+S078,Female,37,98.65551746,63,Masters,No,Yes,70,Pass
+S417,Male,30,84.15919282,77,Masters,Yes,No,61,Pass
+S302,Male,24,89.38949444,95,High School,Yes,Yes,61,Pass
+S009,Male,31,50.68359824,78,Masters,No,No,50,Fail
+S044,Female,34,80.8631856,94,PhD,No,Yes,65,Pass
+S331,Male,27,65.49684631,86,High School,Yes,No,55,Fail
+S451,Female,35,69.83246865,58,High School,Yes,Yes,57,Fail
+S059,Male,11,92.10457075,95,Masters,Yes,No,62,Pass
+S315,Male,25,78.8815977,81,High School,No,No,59,Fail
+S295,Female,18,66.60732063,64,High School,No,No,50,Fail
+S141,Female,12,62.21765777,62,Masters,Yes,No,50,Fail
+S274,Female,34,55.03973015,71,High School,Yes,Yes,50,Fail
+S327,Male,32,93.03160089,78,Bachelors,Yes,Yes,77,Pass
+S413,Female,24,71.08519673,81,Masters,Yes,Yes,56,Fail
+S452,Female,37,97.70434683,55,High School,Yes,Yes,58,Fail
+S386,Female,39,85.19730676,62,PhD,Yes,No,57,Fail
+S458,Female,27,92.07648302,99,Bachelors,No,No,65,Pass
+S079,Male,14,80.09676978,79,High School,No,Yes,55,Fail
+S375,Male,36,97.22048628,93,Masters,Yes,Yes,65,Pass
+S384,Male,27,93.82220379,57,High School,Yes,No,57,Fail
+S207,Female,20,89.07572409,92,Bachelors,Yes,Yes,62,Pass
+S071,Female,26,70.01502445,69,Bachelors,No,No,50,Fail
+S489,Male,27,99.02884001,85,High School,Yes,Yes,64,Pass
+S066,Female,38,78.98249672,96,Masters,No,No,71,Pass
+S018,Female,32,68.89252746,66,PhD,Yes,Yes,58,Fail
+S015,Female,27,79.25747662,67,Masters,Yes,Yes,50,Fail
+S155,Male,39,50.91212407,52,Bachelors,No,Yes,50,Fail
+S159,Male,14,78.79992089,91,PhD,No,Yes,61,Pass
+S368,Female,15,77.83607924,95,Masters,No,Yes,61,Pass
+S104,Female,28,96.20208796,83,High School,No,Yes,67,Pass
+S329,Female,20,59.22314357,96,Bachelors,No,Yes,64,Pass
+S397,Female,37,93.053401,81,Bachelors,No,Yes,61,Pass
+S097,Female,29,68.86429826,92,High School,No,No,64,Pass
+S112,Male,14,84.35827527,94,High School,Yes,Yes,59,Fail
+S370,Male,28,90.26574837,74,PhD,No,Yes,64,Pass
+S463,Female,13,73.71186544,77,PhD,Yes,Yes,55,Fail
+S060,Male,32,88.44588707,78,High School,No,Yes,56,Fail
+S041,Male,37,81.96806785,67,Bachelors,No,Yes,56,Fail
+S097,Female,29,68.86429826,92,High School,No,No,64,Pass
+S216,Male,21,65.80982911,92,Bachelors,Yes,No,65,Pass
+S430,Female,23,86.60922892,79,High School,Yes,No,55,Fail
+S377,Female,35,70.31961541,85,PhD,No,No,59,Fail
+S187,Female,22,60.08652312,78,Masters,No,Yes,50,Fail
+S233,Female,35,66.6407893,78,Masters,Yes,Yes,54,Fail
+S166,Male,16,85.92286354,83,PhD,Yes,No,55,Fail
+S207,Female,20,89.07572409,92,Bachelors,Yes,Yes,62,Pass
+S419,Female,37,76.48308393,82,High School,No,Yes,63,Pass
+S033,Female,19,90.81928676,88,PhD,Yes,Yes,56,Fail
+S185,Male,33,77.4301559,94,Bachelors,Yes,Yes,58,Fail
+S057,Female,37,89.82358878,84,High School,No,Yes,68,Pass
+S372,Female,21,80.15987011,63,High School,Yes,No,50,Fail
+S395,Male,12,88.69172616,80,PhD,No,Yes,50,Fail
+S211,Male,10,91.25663383,85,Bachelors,Yes,Yes,63,Pass
+S361,Female,29,62.6944282,56,Masters,Yes,Yes,54,Fail
+S382,Female,22,92.40640477,51,Bachelors,Yes,No,53,Fail
+S389,Male,37,66.79329286,70,Bachelors,No,Yes,55,Fail
+S387,Male,35,95.53120018,66,High School,Yes,No,65,Pass
+S380,Male,39,81.66203875,97,Bachelors,Yes,Yes,66,Pass
+S020,Male,36,60.25226643,80,Bachelors,No,No,50,Fail
+S445,Female,15,91.85394954,93,Bachelors,No,Yes,67,Pass
+S380,Male,39,81.66203875,97,Bachelors,Yes,Yes,66,Pass
+S099,Female,22,93.41505535,88,High School,No,No,63,Pass
+S448,Female,37,86.07664306,60,Bachelors,Yes,No,51,Fail
+S408,Female,35,87.08434721,73,Masters,No,Yes,60,Pass
+S089,Female,15,56.43741991,58,Bachelors,Yes,Yes,50,Fail
+S049,Female,17,54.55010455,91,PhD,No,No,50,Fail
+S194,Male,26,80.30509405,62,High School,No,No,56,Fail
+S121,Female,35,59.11419392,55,PhD,No,No,57,Fail
+S362,Male,26,59.80565498,52,High School,No,Yes,50,Fail
+S322,Male,16,60.63403922,76,Bachelors,No,No,50,Fail
+S499,Male,24,73.6605059,68,High School,Yes,No,57,Fail
+S251,Female,34,76.82406757,55,High School,Yes,No,50,Fail
+S314,Male,32,62.41132214,60,High School,No,Yes,50,Fail
+S200,Male,27,96.64690335,65,Bachelors,No,No,63,Pass
+S399,Female,34,98.72736326,94,Bachelors,No,Yes,66,Pass
+S072,Female,29,84.88337868,54,Masters,Yes,Yes,50,Fail
+S162,Male,35,98.75335815,89,Bachelors,Yes,No,71,Pass
+S440,Male,20,97.93135887,95,Bachelors,No,Yes,61,Pass
+S139,Male,38,94.98236986,84,PhD,Yes,No,71,Pass
+S449,Male,30,80.52023335,52,PhD,Yes,No,59,Fail
+S108,Female,37,86.02580307,57,PhD,No,No,60,Pass
+S476,Female,23,65.72982784,91,Bachelors,No,No,58,Fail
+S068,Male,35,76.86317084,79,PhD,Yes,Yes,57,Fail
+S178,Male,11,54.36450898,62,High School,No,Yes,50,Fail
+S406,Female,30,74.23891836,71,High School,Yes,Yes,60,Pass
+S340,Female,15,79.37268021,83,High School,Yes,No,61,Pass
+S368,Female,15,77.83607924,95,Masters,No,Yes,61,Pass
+S370,Male,28,90.26574837,74,PhD,No,Yes,64,Pass
+S379,Female,16,54.34625075,87,High School,No,No,50,Fail
+S246,Female,33,60.22722966,83,PhD,No,No,56,Fail
+S164,Female,25,86.14480483,54,Masters,No,Yes,50,Fail
+S008,Male,19,56.69260594,72,Bachelors,Yes,Yes,50,Fail
+S051,Male,25,77.37231534,79,Masters,No,No,57,Fail
+S142,Male,21,74.91238489,96,High School,No,No,61,Pass
+S394,Female,10,67.25960724,96,Masters,No,Yes,64,Pass
+S045,Female,13,99.02313625,91,PhD,Yes,Yes,55,Fail
+S013,Male,23,87.49553747,88,Bachelors,Yes,No,57,Fail
+S085,Male,21,77.43576546,97,Bachelors,Yes,No,52,Fail
+S300,Female,28,87.21248259,75,Bachelors,No,No,65,Pass
+S438,Female,32,71.10180298,88,Masters,Yes,Yes,51,Fail
+S439,Male,34,67.69356883,75,Bachelors,No,No,56,Fail
+S012,Male,17,76.71731375,79,High School,No,No,50,Fail
+S366,Male,13,78.47217589,52,Masters,No,Yes,50,Fail
+S380,Male,39,81.66203875,97,Bachelors,Yes,Yes,66,Pass
+S180,Male,19,96.60071711,54,Bachelors,No,No,52,Fail
+S486,Female,19,87.95179228,100,High School,No,No,64,Pass
+S431,Male,24,62.53653303,82,PhD,Yes,Yes,52,Fail
+S160,Female,21,95.86978065,58,Bachelors,Yes,Yes,66,Pass
+S353,Male,14,94.87152049,74,Masters,Yes,Yes,63,Pass
+S265,Male,33,91.33994139,53,PhD,No,No,50,Fail
+S152,Male,14,52.78267447,77,PhD,No,Yes,50,Fail
+S147,Male,31,68.26784098,86,High School,Yes,Yes,63,Pass
+S259,Female,12,88.59409903,77,High School,Yes,Yes,50,Fail
+S429,Male,26,63.32491967,62,Bachelors,Yes,Yes,50,Fail
+S014,Male,33,95.65828761,84,Masters,Yes,Yes,61,Pass
+S159,Male,14,78.79992089,91,PhD,No,Yes,61,Pass
+S482,Female,14,54.33526059,61,Bachelors,No,Yes,50,Fail
+S297,Female,37,61.36978104,100,High School,Yes,No,66,Pass
+S055,Male,32,76.1801138,81,Bachelors,No,No,56,Fail
+S207,Female,20,89.07572409,92,Bachelors,Yes,Yes,62,Pass
+S280,Female,39,89.50423186,67,PhD,No,Yes,64,Pass
+S034,Female,32,98.39868827,64,PhD,Yes,No,67,Pass
+S494,Female,33,83.49587323,100,PhD,No,No,71,Pass
+S163,Female,35,74.53743896,74,High School,Yes,Yes,57,Fail
+S433,Male,30,74.71369251,75,High School,Yes,No,53,Fail
+S028,Female,20,51.1092371,92,PhD,Yes,Yes,51,Fail
+S328,Male,38,76.75348595,70,Bachelors,No,No,64,Pass
+S355,Female,28,90.03748857,78,Masters,Yes,No,67,Pass
+S225,Female,12,78.87431355,79,Masters,No,No,51,Fail
+S160,Female,21,95.86978065,58,Bachelors,Yes,Yes,66,Pass
+S213,Male,17,61.7845873,87,PhD,No,Yes,57,Fail
+S435,Female,31,91.90534816,88,Masters,Yes,No,68,Pass
+S271,Female,32,80.74751316,76,High School,Yes,No,52,Fail
+S365,Male,22,66.96356229,73,Masters,No,No,61,Pass
+S186,Male,14,77.44609899,81,PhD,No,No,57,Fail
+S284,Male,31,68.72176849,78,Bachelors,No,Yes,53,Fail
+S019,Female,11,62.05424162,63,High School,No,No,52,Fail
+S280,Female,39,89.50423186,67,PhD,No,Yes,64,Pass
+S143,Female,35,66.51742406,74,Masters,Yes,No,59,Fail
+S299,Male,29,68.96528492,72,Bachelors,No,Yes,50,Fail
+S090,Female,22,66.50497567,64,PhD,No,No,50,Fail
+S214,Male,19,81.68792819,56,Masters,No,No,50,Fail
+S369,Male,37,86.04065482,64,High School,No,No,61,Pass
+S375,Male,36,97.22048628,93,Masters,Yes,Yes,65,Pass
+S402,Female,34,78.288831,87,High School,Yes,Yes,65,Pass
+S344,Female,17,76.72279456,73,PhD,Yes,No,50,Fail
+S480,Female,27,84.52801162,61,Masters,No,No,52,Fail
+S279,Male,26,95.93752611,75,Masters,No,No,61,Pass
+S262,Female,27,78.27541737,86,PhD,No,Yes,59,Fail
+S086,Male,14,76.72117519,50,PhD,Yes,Yes,50,Fail
+S061,Male,31,53.31179889,98,Bachelors,No,No,67,Pass
+S305,Female,14,70.72522921,53,High School,Yes,No,50,Fail
+S414,Male,30,56.61381056,64,High School,No,No,52,Fail
+S228,Female,35,76.59287398,67,Bachelors,No,No,62,Pass
+S335,Female,19,67.46934995,54,PhD,No,No,50,Fail
+S074,Female,15,84.82507331,79,PhD,No,Yes,57,Fail
+S399,Female,34,98.72736326,94,Bachelors,No,Yes,66,Pass
+S216,Male,21,65.80982911,92,Bachelors,Yes,No,65,Pass
+S459,Male,37,92.32039247,61,Masters,No,No,61,Pass
+S493,Male,32,52.57979033,81,Masters,No,No,50,Fail
+S367,Female,13,94.37302413,69,PhD,No,Yes,62,Pass
+S403,Male,33,99.26836561,90,High School,Yes,Yes,64,Pass
+S035,Female,35,54.42041117,98,Bachelors,No,Yes,59,Fail
+S119,Female,30,55.24345833,98,Bachelors,No,No,62,Pass
+S003,Male,32,69.64947245,58,PhD,Yes,No,57,Fail
+S261,Male,13,79.92213506,79,Bachelors,No,No,52,Fail
+S264,Male,16,79.95146824,71,Bachelors,No,Yes,55,Fail
+S478,Female,38,98.10493929,60,Masters,Yes,No,64,Pass
+S465,Female,31,67.57700806,96,PhD,No,Yes,62,Pass
+S365,Male,22,66.96356229,73,Masters,No,No,61,Pass
+S326,Female,12,77.86526844,77,Bachelors,Yes,No,50,Fail
+S298,Male,23,80.39471969,60,PhD,No,Yes,50,Fail
+S253,Female,19,72.85001096,79,Masters,No,No,53,Fail
+S223,Female,28,76.9890531,81,Bachelors,Yes,Yes,65,Pass
+S189,Male,25,54.39340556,52,Bachelors,Yes,Yes,50,Fail
+S124,Male,24,54.46021644,96,Bachelors,No,No,51,Fail
+S223,Female,28,76.9890531,81,Bachelors,Yes,Yes,65,Pass
+S024,Female,26,93.91103337,94,High School,No,No,65,Pass
+S066,Female,38,78.98249672,96,Masters,No,No,71,Pass
+S457,Female,37,58.10069389,90,High School,No,Yes,58,Fail
+S487,Male,33,86.20516646,68,Bachelors,Yes,No,51,Fail
+S066,Female,38,78.98249672,96,Masters,No,No,71,Pass
+S130,Female,17,82.44114201,98,PhD,No,Yes,62,Pass
+S330,Female,20,64.97979559,65,Bachelors,Yes,No,50,Fail
+S119,Female,30,55.24345833,98,Bachelors,No,No,62,Pass
+S381,Female,12,86.79523066,71,Masters,Yes,Yes,57,Fail
+S101,Male,37,79.86390411,73,PhD,No,Yes,70,Pass
+S394,Female,10,67.25960724,96,Masters,No,Yes,64,Pass
+S016,Male,24,86.3060422,91,High School,Yes,Yes,65,Pass
+S023,Female,35,60.36138245,93,Bachelors,No,No,63,Pass
+S091,Female,29,66.07913823,98,Masters,No,Yes,60,Pass
+S032,Male,38,65.38886199,93,PhD,No,No,67,Pass
+S043,Female,16,95.15755293,65,Bachelors,Yes,No,55,Fail
+S277,Male,39,79.64814526,50,Masters,Yes,No,55,Fail
+S268,Female,14,61.36754915,85,High School,Yes,Yes,50,Fail
+S021,Female,19,62.57212198,73,High School,No,No,50,Fail
+S197,Female,29,92.536373,55,PhD,No,No,61,Pass
+S291,Male,38,61.79530173,60,High School,No,No,54,Fail
+S263,Male,26,85.80895374,78,Bachelors,Yes,Yes,58,Fail
+S368,Female,15,77.83607924,95,Masters,No,Yes,61,Pass
+S342,Female,23,85.70295999,98,Bachelors,No,No,60,Pass
+S324,Female,35,98.77706578,66,Masters,No,Yes,71,Pass
+S328,Male,38,76.75348595,70,Bachelors,No,No,64,Pass
+S120,Male,10,86.8702603,52,Bachelors,Yes,No,50,Fail
+S333,Female,21,71.33944527,55,High School,Yes,No,50,Fail
+S077,Female,20,75.76180274,94,Bachelors,No,No,56,Fail
+S016,Male,24,86.3060422,91,High School,Yes,Yes,65,Pass
+S092,Female,39,54.61452931,73,High School,No,Yes,60,Pass
+S339,Female,38,91.82824066,64,PhD,Yes,Yes,61,Pass
+S084,Female,21,51.59023407,74,Bachelors,Yes,Yes,50,Fail
+S258,Female,26,70.44775885,83,High School,Yes,No,57,Fail
+S477,Male,12,90.37151259,63,High School,Yes,No,53,Fail
+S229,Male,17,53.33095562,85,High School,No,Yes,50,Fail
+S237,Female,18,93.93145577,81,Bachelors,No,Yes,57,Fail
+S047,Female,29,81.83221608,51,Masters,No,Yes,52,Fail
+S416,Male,31,84.56109288,71,Masters,Yes,Yes,56,Fail
+S428,Female,18,63.18419013,90,Masters,Yes,Yes,57,Fail
+S252,Male,13,68.94107828,68,Masters,No,No,50,Fail
+S222,Male,38,81.20507721,59,PhD,Yes,No,60,Pass
+S302,Male,24,89.38949444,95,High School,Yes,Yes,61,Pass
+S390,Male,17,91.25536657,67,Masters,No,No,59,Fail
+S042,Male,35,90.25223338,82,High School,Yes,Yes,68,Pass
+S332,Male,24,69.86590577,69,Masters,No,No,54,Fail
+S235,Female,11,84.68588037,88,Bachelors,No,Yes,67,Pass
+S387,Male,35,95.53120018,66,High School,Yes,No,65,Pass
+S345,Male,19,74.05439742,61,High School,Yes,No,51,Fail
+S190,Female,33,56.94123867,89,Bachelors,Yes,No,59,Fail
+S160,Female,21,95.86978065,58,Bachelors,Yes,Yes,66,Pass
+S349,Female,35,66.71814057,65,Masters,No,Yes,58,Fail
+S409,Female,21,84.94229266,90,Masters,Yes,Yes,63,Pass
+S341,Male,16,64.70223396,84,High School,No,No,50,Fail
+S156,Female,23,84.84807312,74,PhD,No,Yes,68,Pass
+S241,Female,30,99.8846308,98,Masters,Yes,No,74,Pass
+S011,Male,12,84.58571986,80,High School,No,Yes,60,Pass
+S313,Female,30,95.63747314,78,High School,Yes,No,61,Pass
+S126,Female,39,61.66082058,98,Bachelors,Yes,No,63,Pass
+S328,Male,38,76.75348595,70,Bachelors,No,No,64,Pass
+S368,Female,15,77.83607924,95,Masters,No,Yes,61,Pass
+S339,Female,38,91.82824066,64,PhD,Yes,Yes,61,Pass
+S221,Male,11,94.98337226,91,High School,No,No,57,Fail
+S192,Male,32,55.83480321,89,Bachelors,No,No,59,Fail
+S496,Male,31,79.41318785,67,Bachelors,No,Yes,65,Pass
+S370,Male,28,90.26574837,74,PhD,No,Yes,64,Pass
+S017,Female,31,87.8540601,88,Masters,Yes,No,65,Pass
+S101,Male,37,79.86390411,73,PhD,No,Yes,70,Pass
+S175,Female,31,76.49200116,55,Masters,Yes,No,50,Fail
+S017,Female,31,87.8540601,88,Masters,Yes,No,65,Pass
+S459,Male,37,92.32039247,61,Masters,No,No,61,Pass
+S232,Female,19,71.57640716,62,Bachelors,No,Yes,52,Fail
+S458,Female,27,92.07648302,99,Bachelors,No,No,65,Pass
+S138,Male,31,66.87234169,81,PhD,Yes,No,59,Fail
+S254,Male,14,80.1978936,56,PhD,No,No,52,Fail
+S469,Male,30,72.98407564,65,High School,No,No,54,Fail
+S329,Female,20,59.22314357,96,Bachelors,No,Yes,64,Pass
+S027,Female,18,63.4336241,86,High School,No,No,50,Fail
+S360,Male,31,77.58612976,99,Masters,Yes,No,66,Pass
+S432,Female,10,81.65490317,62,PhD,No,Yes,50,Fail
+S038,Male,34,74.00229835,71,PhD,No,No,54,Fail
+S154,Male,26,52.58177389,58,Masters,Yes,Yes,50,Fail
+S484,Female,34,87.9196207,74,Masters,Yes,No,58,Fail
+S146,Male,14,61.26663989,63,High School,Yes,No,50,Fail
+S294,Female,21,91.87453945,96,Masters,Yes,Yes,65,Pass
+S283,Female,34,88.56233343,96,Bachelors,Yes,Yes,72,Pass
+S488,Female,39,81.86157899,95,PhD,No,Yes,61,Pass
+S434,Female,31,78.66471891,71,Bachelors,No,No,55,Fail
+S039,Male,33,71.02678893,74,High School,Yes,No,58,Fail
+S023,Female,35,60.36138245,93,Bachelors,No,No,63,Pass
+S498,Female,27,77.79032907,67,Bachelors,No,Yes,58,Fail
+S234,Female,39,86.52745684,61,Bachelors,No,Yes,53,Fail
+S369,Male,37,86.04065482,64,High School,No,No,61,Pass
+S340,Female,15,79.37268021,83,High School,Yes,No,61,Pass
+S073,Male,19,59.00336362,50,Bachelors,Yes,Yes,50,Fail
+S353,Male,14,94.87152049,74,Masters,Yes,Yes,63,Pass
+S031,Male,16,91.5685745,72,Bachelors,No,Yes,52,Fail
+S125,Male,11,76.7667782,72,PhD,No,Yes,57,Fail
+S410,Female,22,70.12750218,66,Masters,Yes,No,50,Fail
+S402,Female,34,78.288831,87,High School,Yes,Yes,65,Pass
+S053,Male,21,95.52356392,62,Masters,No,No,50,Fail
+S351,Female,14,87.66231104,57,PhD,Yes,No,55,Fail
+S391,Male,38,68.15296061,79,High School,No,Yes,60,Pass
+S257,Male,12,74.3178741,81,PhD,Yes,Yes,50,Fail
+S235,Female,11,84.68588037,88,Bachelors,No,Yes,67,Pass
+S181,Male,35,66.03210961,62,PhD,No,No,50,Fail
+S445,Female,15,91.85394954,93,Bachelors,No,Yes,67,Pass
+S165,Female,30,91.04307366,60,High School,No,No,50,Fail
+S461,Female,14,57.73360704,57,PhD,No,Yes,52,Fail
+S354,Female,15,76.32892333,66,PhD,No,Yes,50,Fail
+S446,Male,21,71.85966982,98,High School,Yes,No,62,Pass
+S324,Female,35,98.77706578,66,Masters,No,Yes,71,Pass
+S342,Female,23,85.70295999,98,Bachelors,No,No,60,Pass
+S447,Male,33,95.77568386,89,Masters,Yes,No,69,Pass
+S455,Male,17,63.49556112,80,PhD,Yes,No,53,Fail
+S278,Female,26,55.11063321,71,High School,Yes,No,50,Fail
+S094,Female,12,84.38923585,61,Bachelors,Yes,Yes,50,Fail
+S409,Female,21,84.94229266,90,Masters,Yes,Yes,63,Pass
+S226,Female,32,67.76812259,88,Bachelors,No,No,56,Fail
+S069,Female,35,73.00595795,74,PhD,No,Yes,60,Pass
+S450,Female,17,97.46533985,55,Bachelors,No,No,50,Fail
+S092,Female,39,54.61452931,73,High School,No,Yes,60,Pass
+S026,Female,10,52.34482339,52,PhD,No,No,50,Fail
+S224,Female,27,71.93723377,92,High School,Yes,Yes,59,Fail
+S356,Male,17,98.94657178,57,Bachelors,Yes,No,50,Fail
+S097,Female,29,68.86429826,92,High School,No,No,64,Pass
+S321,Female,35,61.0048607,60,Bachelors,Yes,No,50,Fail
+S188,Male,13,84.22857739,100,Masters,Yes,Yes,65,Pass
+S083,Male,37,67.38096072,86,High School,Yes,No,65,Pass
+S240,Female,35,78.65754246,76,PhD,Yes,Yes,60,Pass
+S365,Male,22,66.96356229,73,Masters,No,No,61,Pass
+S095,Female,32,75.58285068,86,Masters,Yes,Yes,63,Pass
+S408,Female,35,87.08434721,73,Masters,No,Yes,60,Pass
+S289,Male,13,95.53430991,56,Bachelors,No,Yes,60,Pass
+S115,Male,39,51.52360764,92,Masters,No,No,64,Pass
+S325,Female,14,72.9494494,93,PhD,No,No,54,Fail
+S327,Male,32,93.03160089,78,Bachelors,Yes,Yes,77,Pass
+S172,Male,32,85.54762394,97,Bachelors,No,Yes,64,Pass
+S441,Male,21,59.21854603,99,High School,Yes,Yes,60,Pass
+S198,Female,33,87.29872628,73,Masters,No,Yes,72,Pass
+S034,Female,32,98.39868827,64,PhD,Yes,No,67,Pass
+S032,Male,38,65.38886199,93,PhD,No,No,67,Pass
+S103,Female,39,76.8295323,62,Masters,Yes,Yes,68,Pass
+S042,Male,35,90.25223338,82,High School,Yes,Yes,68,Pass
+S282,Female,25,82.56836055,63,High School,Yes,Yes,54,Fail
+S116,Female,32,93.36074905,83,Masters,No,No,66,Pass
+S436,Female,12,70.21907508,51,Masters,Yes,No,50,Fail
+S460,Male,37,97.76181564,57,High School,No,No,59,Fail
+S338,Male,26,68.88629737,87,Bachelors,Yes,Yes,65,Pass
+S244,Male,20,88.92859695,89,PhD,No,Yes,61,Pass
+S048,Male,10,77.74078043,84,Bachelors,No,Yes,56,Fail
+S006,Female,27,53.17559148,57,Masters,Yes,No,50,Fail
+S052,Female,23,72.54552237,62,Bachelors,Yes,No,50,Fail
+S095,Female,32,75.58285068,86,Masters,Yes,Yes,63,Pass
+S470,Female,29,53.79667052,53,Bachelors,No,Yes,50,Fail
+S147,Male,31,68.26784098,86,High School,Yes,Yes,63,Pass
+S355,Female,28,90.03748857,78,Masters,Yes,No,67,Pass
+S316,Female,34,58.27566587,51,High School,No,No,54,Fail
+S191,Male,25,50.13554497,83,High School,Yes,Yes,50,Fail
+S347,Male,27,88.26781405,64,PhD,Yes,Yes,67,Pass
+S104,Female,28,96.20208796,83,High School,No,Yes,67,Pass
+S127,Female,31,67.14634321,58,High School,No,No,50,Fail
+S151,Male,37,90.29324434,52,PhD,Yes,No,56,Fail
+S157,Male,39,99.86277674,83,Masters,No,No,64,Pass
+S044,Female,34,80.8631856,94,PhD,No,Yes,65,Pass
+S157,Male,39,99.86277674,83,Masters,No,No,64,Pass
+S285,Female,22,53.44607697,61,PhD,No,Yes,50,Fail
+S300,Female,28,87.21248259,75,Bachelors,No,No,65,Pass
+S391,Male,38,68.15296061,79,High School,No,Yes,60,Pass
+S092,Female,39,54.61452931,73,High School,No,Yes,60,Pass
+S310,Female,36,95.92273625,88,High School,Yes,No,64,Pass
+S270,Male,26,64.39648082,53,High School,No,Yes,50,Fail
+S219,Female,21,72.59743006,80,Masters,Yes,No,58,Fail
+S391,Male,38,68.15296061,79,High School,No,Yes,60,Pass
+S139,Male,38,94.98236986,84,PhD,Yes,No,71,Pass
+S173,Male,35,59.97534637,75,High School,No,No,59,Fail
+S465,Female,31,67.57700806,96,PhD,No,Yes,62,Pass
+S222,Male,38,81.20507721,59,PhD,Yes,No,60,Pass
+S489,Male,27,99.02884001,85,High School,Yes,Yes,64,Pass
+S145,Female,28,50.37671816,53,PhD,No,No,50,Fail
+S249,Male,30,87.73176459,84,PhD,No,Yes,69,Pass
+S304,Female,30,55.713365,78,Masters,Yes,No,50,Fail
+S371,Female,38,99.4364391,79,Masters,Yes,Yes,68,Pass
+S140,Male,32,80.37776111,87,High School,No,No,69,Pass
+S423,Female,28,70.2624044,99,PhD,No,Yes,62,Pass
+S001,Male,38,68.8369485,64,High School,Yes,No,50,Fail
+S412,Female,38,82.25270839,95,Bachelors,No,No,76,Pass
+S056,Female,24,84.88209357,81,Bachelors,No,Yes,67,Pass
+S030,Female,25,73.81053484,75,PhD,No,No,50,Fail
+S397,Female,37,93.053401,81,Bachelors,No,Yes,61,Pass
+S113,Female,35,92.22203363,95,Masters,No,Yes,64,Pass
+S150,Female,23,54.39438123,90,PhD,Yes,Yes,53,Fail
+S162,Male,35,98.75335815,89,Bachelors,Yes,No,71,Pass
+S218,Male,22,84.14910317,100,High School,Yes,Yes,63,Pass
+S111,Female,35,56.65584643,100,PhD,No,No,57,Fail
+S248,Male,34,74.69907436,94,Bachelors,No,Yes,53,Fail
+S067,Female,31,67.07816052,59,Bachelors,No,No,50,Fail
+S218,Male,22,84.14910317,100,High School,Yes,Yes,63,Pass
+S481,Female,28,76.06503337,72,PhD,No,No,54,Fail
+S239,Male,13,87.07304556,95,Bachelors,No,Yes,58,Fail
+S238,Female,16,74.77118132,62,High School,No,No,50,Fail
+S096,Female,17,57.84888414,86,Bachelors,No,Yes,50,Fail
+S419,Female,37,76.48308393,82,High School,No,Yes,63,Pass
+S474,Female,38,50.26269093,52,High School,No,Yes,51,Fail
+S446,Male,21,71.85966982,98,High School,Yes,No,62,Pass
+S495,Male,10,52.20827189,93,Masters,Yes,Yes,52,Fail
+S446,Male,21,71.85966982,98,High School,Yes,No,62,Pass
+S106,Female,33,87.99777045,56,Masters,Yes,No,55,Fail
+S319,Male,30,89.02478538,69,Masters,Yes,No,56,Fail
+S486,Female,19,87.95179228,100,High School,No,No,64,Pass
+S119,Female,30,55.24345833,98,Bachelors,No,No,62,Pass
+S088,Male,13,94.71086314,64,Masters,Yes,Yes,50,Fail
+S286,Male,36,53.86605327,85,Bachelors,No,Yes,53,Fail
+S091,Female,29,66.07913823,98,Masters,No,Yes,60,Pass
+S446,Male,21,71.85966982,98,High School,Yes,No,62,Pass
+S158,Female,29,94.83051315,61,High School,Yes,No,50,Fail
+S017,Female,31,87.8540601,88,Masters,Yes,No,65,Pass
+S024,Female,26,93.91103337,94,High School,No,No,65,Pass
+S466,Male,26,70.63967753,56,PhD,No,Yes,55,Fail
+S444,Female,17,53.41248527,91,High School,Yes,No,50,Fail
+S376,Female,19,57.05409244,69,Masters,No,No,50,Fail
+S415,Male,25,95.02861506,65,Masters,Yes,Yes,50,Fail
+S247,Male,13,85.70320411,73,High School,Yes,No,53,Fail
+S188,Male,13,84.22857739,100,Masters,Yes,Yes,65,Pass
+S392,Male,18,51.71140554,67,Masters,Yes,No,50,Fail
+S486,Female,19,87.95179228,100,High School,No,No,64,Pass
+S283,Female,34,88.56233343,96,Bachelors,Yes,Yes,72,Pass
+S447,Male,33,95.77568386,89,Masters,Yes,No,69,Pass
+S169,Male,39,91.92912794,87,High School,No,No,73,Pass
+S398,Female,39,60.97552625,60,PhD,No,No,50,Fail
+S065,Male,39,60.45653955,93,High School,No,Yes,59,Fail
+S140,Male,32,80.37776111,87,High School,No,No,69,Pass
+S255,Male,18,75.11441737,59,Bachelors,Yes,Yes,50,Fail
+S293,Male,28,59.31604397,55,Masters,Yes,Yes,50,Fail
+S202,Female,37,60.2500905,77,PhD,Yes,No,51,Fail
+S491,Female,22,82.33324596,57,Masters,No,No,50,Fail
+S236,Female,28,58.336538,51,Bachelors,No,No,50,Fail
+S364,Female,34,79.75244899,93,Masters,No,No,59,Fail
+S207,Female,20,89.07572409,92,Bachelors,Yes,Yes,62,Pass
+S437,Female,25,88.54556885,87,High School,No,No,61,Pass
+S063,Male,34,81.04028422,93,High School,No,No,69,Pass
+S290,Female,21,56.14053909,78,Bachelors,Yes,No,50,Fail
+S464,Male,36,67.2191866,69,Masters,No,No,57,Fail
+S201,Male,12,99.54647382,89,Masters,No,No,67,Pass
+S375,Male,36,97.22048628,93,Masters,Yes,Yes,65,Pass
+S133,Male,10,86.84112377,99,PhD,No,No,57,Fail
+S036,Male,12,89.59089197,53,High School,Yes,Yes,50,Fail
+S397,Female,37,93.053401,81,Bachelors,No,Yes,61,Pass
+S445,Female,15,91.85394954,93,Bachelors,No,Yes,67,Pass
+S160,Female,21,95.86978065,58,Bachelors,Yes,Yes,66,Pass
+S346,Male,18,74.85059744,67,Bachelors,No,No,50,Fail
+S162,Male,35,98.75335815,89,Bachelors,Yes,No,71,Pass
+S122,Male,35,78.1982546,54,Bachelors,No,Yes,57,Fail
+S069,Female,35,73.00595795,74,PhD,No,Yes,60,Pass
+S308,Female,34,73.28500612,62,Masters,No,Yes,55,Fail
+S142,Male,21,74.91238489,96,High School,No,No,61,Pass
+S418,Female,20,91.1291938,69,PhD,No,Yes,50,Fail
+S080,Female,10,61.1924533,99,High School,No,Yes,53,Fail
+S208,Female,14,91.39704436,94,High School,No,Yes,73,Pass
+S222,Male,38,81.20507721,59,PhD,Yes,No,60,Pass
+S307,Female,21,96.14801159,84,Bachelors,Yes,No,65,Pass
+S029,Female,31,74.90825933,89,PhD,Yes,No,68,Pass
+S279,Male,26,95.93752611,75,Masters,No,No,61,Pass
+S479,Male,15,89.50067794,67,High School,No,Yes,52,Fail
+S340,Female,15,79.37268021,83,High School,Yes,No,61,Pass
+S177,Male,13,88.38897507,97,High School,No,Yes,59,Fail
+S424,Male,29,74.8732447,82,PhD,Yes,No,60,Pass
+S092,Female,39,54.61452931,73,High School,No,Yes,60,Pass
+S400,Male,37,88.98793874,74,Bachelors,Yes,Yes,64,Pass
+S097,Female,29,68.86429826,92,High School,No,No,64,Pass
+S368,Female,15,77.83607924,95,Masters,No,Yes,61,Pass
+S289,Male,13,95.53430991,56,Bachelors,No,Yes,60,Pass
+S093,Female,24,74.0572697,53,PhD,No,No,50,Fail
+S399,Female,34,98.72736326,94,Bachelors,No,Yes,66,Pass
+S241,Female,30,99.8846308,98,Masters,Yes,No,74,Pass
+S076,Female,31,93.71588024,52,Bachelors,No,Yes,55,Fail
+S207,Female,20,89.07572409,92,Bachelors,Yes,Yes,62,Pass
+S468,Male,10,79.91430291,69,Bachelors,Yes,No,50,Fail
+S312,Male,13,51.64233351,78,PhD,Yes,Yes,50,Fail
+S148,Male,34,74.39049004,83,High School,Yes,No,59,Fail
+S070,Female,31,79.2383053,88,PhD,No,No,57,Fail
+S040,Male,22,89.2334132,62,PhD,Yes,Yes,50,Fail
+S467,Female,18,85.24627748,60,Masters,Yes,Yes,52,Fail
+S197,Female,29,92.536373,55,PhD,No,No,61,Pass
+S276,Female,18,86.3047793,59,High School,Yes,Yes,51,Fail
+S227,Male,26,69.57410551,80,Masters,Yes,Yes,53,Fail
+S235,Female,11,84.68588037,88,Bachelors,No,Yes,67,Pass
+S393,Female,16,91.53272533,95,PhD,Yes,Yes,64,Pass
+S283,Female,34,88.56233343,96,Bachelors,Yes,Yes,72,Pass
+S426,Male,27,55.32893651,82,PhD,Yes,No,52,Fail
+S396,Female,22,68.13789473,87,PhD,No,No,54,Fail
+S411,Male,22,60.90115537,61,PhD,Yes,Yes,50,Fail
+S069,Female,35,73.00595795,74,PhD,No,Yes,60,Pass
+S405,Female,15,59.10535694,60,Bachelors,No,No,50,Fail
+S342,Female,23,85.70295999,98,Bachelors,No,No,60,Pass
+S205,Female,38,86.07982754,90,Masters,Yes,No,72,Pass
+S050,Female,23,86.31985163,83,Bachelors,Yes,Yes,55,Fail
+S350,Male,11,53.77516819,76,PhD,No,Yes,50,Fail
+S403,Male,33,99.26836561,90,High School,Yes,Yes,64,Pass
+S454,Female,35,74.1877471,88,PhD,Yes,No,69,Pass
+S025,Female,17,87.84995661,83,PhD,No,No,58,Fail
+S494,Female,33,83.49587323,100,PhD,No,No,71,Pass
+S369,Male,37,86.04065482,64,High School,No,No,61,Pass
+S144,Female,25,96.68459119,58,High School,Yes,Yes,53,Fail
+S273,Female,32,56.95580971,61,High School,Yes,Yes,50,Fail
+S421,Female,13,74.90453768,89,High School,Yes,No,50,Fail
+S058,Male,11,72.9673404,88,PhD,No,No,54,Fail
+S359,Male,10,70.39922477,95,PhD,No,No,50,Fail
+S240,Female,35,78.65754246,76,PhD,Yes,Yes,60,Pass
+S339,Female,38,91.82824066,64,PhD,Yes,Yes,61,Pass
+S115,Male,39,51.52360764,92,Masters,No,No,64,Pass
+S198,Female,33,87.29872628,73,Masters,No,Yes,72,Pass
+S082,Female,30,67.25413139,67,High School,No,No,50,Fail
+S101,Male,37,79.86390411,73,PhD,No,Yes,70,Pass
+S206,Male,28,52.4047322,62,PhD,No,No,50,Fail
+S323,Female,23,75.75868412,52,Masters,Yes,Yes,50,Fail
+S159,Male,14,78.79992089,91,PhD,No,Yes,61,Pass
+S383,Female,22,56.13884448,73,Bachelors,No,No,50,Fail
+S339,Female,38,91.82824066,64,PhD,Yes,Yes,61,Pass
+S475,Male,22,55.1546873,90,Masters,Yes,No,51,Fail
+S301,Male,35,60.27899042,83,Masters,No,No,62,Pass
+S329,Female,20,59.22314357,96,Bachelors,No,Yes,64,Pass
+S230,Male,38,61.45126955,51,Masters,Yes,No,50,Fail
+S201,Male,12,99.54647382,89,Masters,No,No,67,Pass
+S267,Female,39,67.12621286,81,Masters,No,Yes,59,Fail
+S489,Male,27,99.02884001,85,High School,Yes,Yes,64,Pass
+S022,Male,11,63.73658985,84,Masters,Yes,Yes,50,Fail
+S287,Male,28,55.2123483,84,Masters,Yes,Yes,50,Fail
+S042,Male,35,90.25223338,82,High School,Yes,Yes,68,Pass
+S011,Male,12,84.58571986,80,High School,No,Yes,60,Pass
+S087,Female,16,67.79957421,95,High School,Yes,Yes,52,Fail
+S231,Female,35,77.14246553,63,Masters,Yes,No,57,Fail
+S380,Male,39,81.66203875,97,Bachelors,Yes,Yes,66,Pass
+S373,Female,31,90.34250745,56,PhD,Yes,No,58,Fail
+S235,Female,11,84.68588037,88,Bachelors,No,Yes,67,Pass
+S375,Male,36,97.22048628,93,Masters,Yes,Yes,65,Pass
+S342,Female,23,85.70295999,98,Bachelors,No,No,60,Pass
+S137,Male,14,68.9386313,52,Bachelors,No,No,50,Fail
+S156,Female,23,84.84807312,74,PhD,No,Yes,68,Pass
+S179,Male,29,75.30519782,77,Masters,No,No,61,Pass
+S399,Female,34,98.72736326,94,Bachelors,No,Yes,66,Pass
+S217,Female,38,79.41533379,94,High School,No,No,63,Pass
+S260,Male,25,50.61015362,64,Bachelors,Yes,No,50,Fail
+S404,Male,10,73.55327263,57,PhD,No,No,50,Fail
+S327,Male,32,93.03160089,78,Bachelors,Yes,Yes,77,Pass
+S348,Female,36,55.14907397,93,High School,Yes,No,61,Pass
+S204,Male,10,96.32247118,97,PhD,Yes,No,56,Fail
+S117,Male,18,67.70733354,75,Bachelors,Yes,Yes,50,Fail
+S310,Female,36,95.92273625,88,High School,Yes,No,64,Pass
+S114,Female,30,87.4808116,59,Masters,No,Yes,50,Fail
+S200,Male,27,96.64690335,65,Bachelors,No,No,63,Pass
+S456,Male,35,76.99213895,81,PhD,No,No,65,Pass
+S010,Female,35,53.76795302,67,Masters,Yes,Yes,50,Fail
+S184,Male,10,72.71339861,89,High School,No,Yes,54,Fail
+S153,Male,24,92.11570176,78,Masters,No,No,53,Fail
+S130,Female,17,82.44114201,98,PhD,No,Yes,62,Pass
+S099,Female,22,93.41505535,88,High School,No,No,63,Pass
+S196,Female,36,55.33496251,82,Masters,No,No,56,Fail
+S422,Female,12,53.35877,81,Bachelors,Yes,Yes,50,Fail
+S401,Female,26,55.7118963,82,Bachelors,No,Yes,52,Fail
+S195,Male,37,89.7144725,94,Masters,Yes,Yes,66,Pass
+S337,Male,21,81.24879935,50,Bachelors,Yes,Yes,55,Fail
+S318,Male,22,65.57365856,63,High School,Yes,No,50,Fail
+S007,Male,34,51.84109338,99,PhD,Yes,No,54,Fail
+S490,Male,36,95.16819063,94,Masters,No,Yes,64,Pass
+S078,Female,37,98.65551746,63,Masters,No,Yes,70,Pass
+S420,Female,14,90.75272142,59,Bachelors,Yes,Yes,55,Fail
+S081,Male,17,91.08953184,53,Bachelors,No,Yes,53,Fail
+S378,Male,28,66.19950306,58,High School,Yes,Yes,53,Fail
+S242,Male,27,87.620156,90,PhD,No,Yes,52,Fail
+S102,Female,19,99.31284979,60,Bachelors,No,No,60,Pass
+S280,Female,39,89.50423186,67,PhD,No,Yes,64,Pass
+S437,Female,25,88.54556885,87,High School,No,No,61,Pass
+S061,Male,31,53.31179889,98,Bachelors,No,No,67,Pass
+S110,Male,32,57.3869546,78,PhD,No,Yes,50,Fail
+S044,Female,34,80.8631856,94,PhD,No,Yes,65,Pass
+S294,Female,21,91.87453945,96,Masters,Yes,Yes,65,Pass
+S360,Male,31,77.58612976,99,Masters,Yes,No,66,Pass
+S179,Male,29,75.30519782,77,Masters,No,No,61,Pass
+S309,Female,29,74.0418489,90,Masters,No,Yes,62,Pass
+S371,Female,38,99.4364391,79,Masters,Yes,Yes,68,Pass
+S193,Male,11,73.65831005,76,High School,Yes,Yes,54,Fail
+S393,Female,16,91.53272533,95,PhD,Yes,Yes,64,Pass
+S388,Male,29,81.23806355,57,PhD,Yes,Yes,50,Fail
+S123,Female,10,92.03549929,54,High School,No,Yes,50,Fail
+S357,Female,25,91.98944297,64,Bachelors,Yes,Yes,57,Fail
+S339,Female,38,91.82824066,64,PhD,Yes,Yes,61,Pass
+S328,Male,38,76.75348595,70,Bachelors,No,No,64,Pass
+S310,Female,36,95.92273625,88,High School,Yes,No,64,Pass
+S360,Male,31,77.58612976,99,Masters,Yes,No,66,Pass
+S256,Male,33,76.99303186,90,High School,Yes,Yes,69,Pass
+S292,Male,18,58.27602552,82,High School,Yes,Yes,50,Fail
+S002,Female,30,87.478915,56,PhD,No,Yes,50,Fail
+S095,Female,32,75.58285068,86,Masters,Yes,Yes,63,Pass
+S243,Female,22,85.34902306,66,High School,No,Yes,50,Fail
+S167,Female,13,76.7518366,73,Bachelors,No,No,50,Fail
+S471,Male,22,53.8882672,55,Masters,No,Yes,50,Fail
+S311,Female,30,79.35341121,64,Masters,Yes,Yes,50,Fail
+S425,Female,34,86.01012908,51,PhD,No,No,58,Fail
+S462,Male,18,81.16662755,99,Bachelors,No,No,56,Fail
+S168,Male,10,73.83097421,64,High School,No,No,50,Fail
+S306,Male,12,93.17590703,66,PhD,No,No,52,Fail
+S394,Female,10,67.25960724,96,Masters,No,Yes,64,Pass
+S220,Male,23,85.68912274,72,PhD,Yes,No,55,Fail
+S400,Male,37,88.98793874,74,Bachelors,Yes,Yes,64,Pass
+S353,Male,14,94.87152049,74,Masters,Yes,Yes,63,Pass
+S017,Female,31,87.8540601,88,Masters,Yes,No,65,Pass
+S250,Male,38,55.14580154,97,High School,Yes,Yes,58,Fail
+S347,Male,27,88.26781405,64,PhD,Yes,Yes,67,Pass
+S275,Male,12,62.80077659,66,High School,Yes,Yes,50,Fail
+S032,Male,38,65.38886199,93,PhD,No,No,67,Pass
+S317,Male,16,51.69395801,96,PhD,Yes,Yes,51,Fail
+S182,Male,28,79.69415488,66,Bachelors,No,No,50,Fail
+S128,Male,25,73.69849707,84,High School,Yes,Yes,57,Fail
+S075,Male,24,70.58306072,98,Bachelors,Yes,No,57,Fail
+S245,Male,38,57.15639928,80,Masters,Yes,Yes,54,Fail
+S061,Male,31,53.31179889,98,Bachelors,No,No,67,Pass
+S131,Female,22,73.97910509,91,PhD,No,No,57,Fail
+S200,Male,27,96.64690335,65,Bachelors,No,No,63,Pass
+S107,Female,28,76.5632877,53,High School,Yes,No,50,Fail
+S062,Male,28,52.29306332,78,PhD,Yes,No,50,Fail
+S328,Male,38,76.75348595,70,Bachelors,No,No,64,Pass
+S280,Female,39,89.50423186,67,PhD,No,Yes,64,Pass
+S211,Male,10,91.25663383,85,Bachelors,Yes,Yes,63,Pass
+S101,Male,37,79.86390411,73,PhD,No,Yes,70,Pass
+S161,Male,25,50.26500032,64,Bachelors,No,No,50,Fail
+S244,Male,20,88.92859695,89,PhD,No,Yes,61,Pass
+S486,Female,19,87.95179228,100,High School,No,No,64,Pass
+S336,Female,35,73.41159142,52,PhD,Yes,No,50,Fail
+S032,Male,38,65.38886199,93,PhD,No,No,67,Pass
+S266,Female,32,97.95373973,69,Bachelors,Yes,No,58,Fail
+S032,Male,38,65.38886199,93,PhD,No,No,67,Pass
+S409,Female,21,84.94229266,90,Masters,Yes,Yes,63,Pass
+S399,Female,34,98.72736326,94,Bachelors,No,Yes,66,Pass
+S307,Female,21,96.14801159,84,Bachelors,Yes,No,65,Pass
+S244,Male,20,88.92859695,89,PhD,No,Yes,61,Pass
+S169,Male,39,91.92912794,87,High School,No,No,73,Pass
+S353,Male,14,94.87152049,74,Masters,Yes,Yes,63,Pass
+S367,Female,13,94.37302413,69,PhD,No,Yes,62,Pass
+S129,Female,34,67.75521516,69,High School,Yes,Yes,52,Fail
+S485,Male,11,81.94746927,94,High School,Yes,No,53,Fail
+S037,Female,27,79.49779486,78,Masters,Yes,No,59,Fail
+S100,Male,27,54.22585038,95,High School,No,Yes,56,Fail
+S132,Male,30,79.20997424,84,Masters,No,Yes,65,Pass
+S054,Female,28,64.89797258,67,Masters,Yes,No,51,Fail
+S374,Female,16,98.13246593,66,Masters,No,No,51,Fail
+S367,Female,13,94.37302413,69,PhD,No,Yes,62,Pass
+S063,Male,34,81.04028422,93,High School,No,No,69,Pass
+S269,Male,21,71.17984312,99,High School,Yes,No,59,Fail
+S210,Male,12,89.97685655,91,PhD,No,No,57,Fail
+S385,Male,37,82.14627818,60,PhD,No,No,64,Pass
+S105,Female,26,61.80582666,74,High School,No,No,50,Fail
+S497,Male,10,99.96767498,55,High School,No,No,59,Fail
+S465,Female,31,67.57700806,96,PhD,No,Yes,62,Pass
+S170,Female,39,60.25387801,57,Masters,Yes,Yes,50,Fail
+S199,Male,21,70.42591465,68,Masters,No,No,50,Fail
+S183,Female,35,68.46152408,99,PhD,Yes,No,67,Pass
+S142,Male,21,74.91238489,96,High School,No,No,61,Pass
+S215,Male,20,95.39330652,54,PhD,No,Yes,54,Fail
+S066,Female,38,78.98249672,96,Masters,No,No,71,Pass
+S347,Male,27,88.26781405,64,PhD,Yes,Yes,67,Pass
+S437,Female,25,88.54556885,87,High School,No,No,61,Pass
+S447,Male,33,95.77568386,89,Masters,Yes,No,69,Pass
+S281,Female,29,51.15113024,99,Bachelors,No,No,50,Fail
+S360,Male,31,77.58612976,99,Masters,Yes,No,66,Pass
+S355,Female,28,90.03748857,78,Masters,Yes,No,67,Pass
+S235,Female,11,84.68588037,88,Bachelors,No,Yes,67,Pass
+S370,Male,28,90.26574837,74,PhD,No,Yes,64,Pass
+S427,Male,24,57.00092693,82,Bachelors,Yes,Yes,53,Fail
+S205,Female,38,86.07982754,90,Masters,Yes,No,72,Pass
+S310,Female,36,95.92273625,88,High School,Yes,No,64,Pass
+S228,Female,35,76.59287398,67,Bachelors,No,No,62,Pass
+S352,Male,38,63.61509274,95,Masters,Yes,No,58,Fail
+S297,Female,37,61.36978104,100,High School,Yes,No,66,Pass
+S417,Male,30,84.15919282,77,Masters,Yes,No,61,Pass
+S272,Female,22,95.59262044,66,PhD,Yes,No,50,Fail
+S443,Male,25,88.54929628,83,PhD,No,No,56,Fail
+S313,Female,30,95.63747314,78,High School,Yes,No,61,Pass
+S500,Female,26,65.64274283,71,High School,Yes,No,52,Fail
+S409,Female,21,84.94229266,90,Masters,Yes,Yes,63,Pass
+S235,Female,11,84.68588037,88,Bachelors,No,Yes,67,Pass
+S303,Male,25,80.18607659,83,High School,No,No,67,Pass
+S228,Female,35,76.59287398,67,Bachelors,No,No,62,Pass
+S363,Male,16,75.27539396,78,High School,No,Yes,57,Fail
+S064,Male,35,67.37067041,65,Masters,Yes,Yes,56,Fail
+S453,Female,13,56.75006387,58,Bachelors,No,Yes,50,Fail
+S102,Female,19,99.31284979,60,Bachelors,No,No,60,Pass
+S005,Male,12,78.45407346,97,Masters,No,No,53,Fail
+S103,Female,39,76.8295323,62,Masters,Yes,Yes,68,Pass
+S296,Female,16,65.5722132,81,Masters,No,Yes,50,Fail
+S320,Female,19,63.87935863,71,PhD,No,No,50,Fail
+S343,Male,22,76.38238651,74,High School,Yes,No,50,Fail
+S188,Male,13,84.22857739,100,Masters,Yes,Yes,65,Pass
+S171,Female,14,98.39970333,54,Masters,Yes,No,55,Fail
+S288,Male,26,92.0219816,61,Bachelors,No,No,59,Fail
+S174,Female,19,86.81235918,67,High School,No,Yes,54,Fail
+S456,Male,35,76.99213895,81,PhD,No,No,65,Pass
+S380,Male,39,81.66203875,97,Bachelors,Yes,Yes,66,Pass
+S203,Male,10,68.96142925,82,Bachelors,No,No,58,Fail
+S339,Female,38,91.82824066,64,PhD,Yes,Yes,61,Pass
+S329,Female,20,59.22314357,96,Bachelors,No,Yes,64,Pass
+S334,Male,18,89.9891011,68,Bachelors,No,No,56,Fail
+S098,Female,25,50.12975122,55,Masters,Yes,Yes,50,Fail
+S135,Male,38,79.32677173,66,High School,Yes,Yes,57,Fail
+S355,Female,28,90.03748857,78,Masters,Yes,No,67,Pass
+S212,Male,10,59.32024934,76,Bachelors,No,Yes,50,Fail
+S303,Male,25,80.18607659,83,High School,No,No,67,Pass
+S172,Male,32,85.54762394,97,Bachelors,No,Yes,64,Pass
+S134,Male,25,77.8871133,67,High School,No,Yes,50,Fail
+S483,Male,24,97.90853965,62,High School,Yes,Yes,53,Fail
+S176,Female,14,85.36150478,86,High School,Yes,No,57,Fail
+S307,Female,21,96.14801159,84,Bachelors,Yes,No,65,Pass
+S004,Male,10,91.45821104,100,High School,No,No,59,Fail
+S109,Female,35,53.11706813,69,PhD,Yes,No,54,Fail
+S198,Female,33,87.29872628,73,Masters,No,Yes,72,Pass
+S407,Female,15,75.62288279,100,Bachelors,No,Yes,54,Fail
+S183,Female,35,68.46152408,99,PhD,Yes,No,67,Pass
+S472,Female,37,50.11696953,71,PhD,Yes,No,55,Fail
+S442,Female,19,54.51684803,64,Bachelors,No,No,50,Fail
+S149,Male,38,92.54087589,60,PhD,Yes,Yes,64,Pass
+S118,Female,21,69.85819163,90,Masters,Yes,No,50,Fail
+S358,Female,22,93.349688,76,Bachelors,No,No,60,Pass
+S492,Male,14,84.65876057,78,PhD,Yes,No,50,Fail
+S301,Male,35,60.27899042,83,Masters,No,No,62,Pass
+S473,Male,25,98.38496941,75,Bachelors,Yes,No,57,Fail
+S307,Female,21,96.14801159,84,Bachelors,Yes,No,65,Pass
+S046,Female,22,80.40439248,93,Bachelors,Yes,No,55,Fail
