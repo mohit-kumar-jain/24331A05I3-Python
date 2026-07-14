@@ -7,6 +7,7 @@ root.geometry("300x250")
 frame = tk.Frame(root)
 frame.pack(pady=20)
 
+
 scrollbar = tk.Scrollbar(frame)
 scrollbar.pack(side=tk.RIGHT, fill=tk.Y)
 

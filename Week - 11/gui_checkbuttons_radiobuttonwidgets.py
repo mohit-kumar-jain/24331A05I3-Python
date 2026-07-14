@@ -4,6 +4,8 @@ root = tk.Tk()
 root.title("Checkbutton and Radiobutton Demo")
 root.geometry("300x300")
 
+
+
 def show_selection():
     selected = []
     if var1.get():

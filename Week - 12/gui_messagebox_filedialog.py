@@ -7,10 +7,11 @@ root.geometry("350x200")
 
 def show_message():
     messagebox.showinfo("Info", "Hello! This is a message box")
-
+    # messagebox.askretrycancel("info","YES")
 def open_file():
-    file_path = filedialog.askopenfilename()
+    file_path = filedialog.askopenfile()
     label.config(text=file_path)
+    
 
 btn1 = tk.Button(root, text="Show Message", command=show_message)
 btn1.pack(pady=10)

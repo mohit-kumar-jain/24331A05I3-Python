@@ -13,11 +13,11 @@ file_menu = tk.Menu(menubar, tearoff=0)
 file_menu.add_command(label="New", command=lambda: show("New Selected"))
 file_menu.add_command(label="Open", command=lambda: show("Open Selected"))
 file_menu.add_separator()
-file_menu.add_command(label="Exit", command=root.quit)
+file_menu.add_command(label="Exit", command=quit)
 
 menubar.add_cascade(label="File", menu=file_menu)
 
-edit_menu = tk.Menu(menubar, tearoff=0)
+edit_menu = tk.Menu(menubar,tearoff=0)
 edit_menu.add_command(label="Cut", command=lambda: show("Cut Selected"))
 edit_menu.add_command(label="Copy", command=lambda: show("Copy Selected"))
 edit_menu.add_command(label="Paste", command=lambda: show("Paste Selected"))
